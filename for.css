@@ -1,0 +1,47 @@
+body{margin: 10%;
+    width: 80%;
+    background-color: rgb(255, 250, 241);
+}
+
+.shakibshakib{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px black;
+    font-weight: bold;
+}
+.shakibalhasan{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(13, 255, 0);
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+.shakibdaddy{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow:2px 2px 2px rgb(0, 0, 0);
+}
+h1{
+    background-size: 100%;
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px rgb(174, 168, 183);
+    padding: 20px 20px 20px;
+    font-style: oblique;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+p{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 30px 20px;
+    box-shadow: 10px 10px 10px;
+}
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-style: oblique;
+    color: rgb(106, 7, 7);
+}
